@@ -1,0 +1,15 @@
+var carName = Volvo;
+var x = 50;
+var y = 5;
+var l = 10;
+print(y + l);
+var z = y + l;
+alert(z);
+var firstName = "John", lastName = "Doe", age = 35;
+alert(10*5);
+alert(10/2);
+alert(15%9);
+x = 10;
+y = 5;
+x += y;
+x *= y;
